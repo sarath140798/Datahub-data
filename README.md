@@ -117,12 +117,15 @@ git clone https://github.com/thebrunelcentre/datahub-data.git
 
 ## Licensing and reuse
 
-Unless otherwise stated, datasets are shared under the same licence terms as the original source data.
+Datasets in this repository are derived from publicly available data published by UK government departments and public bodies, including the Office for National Statistics (ONS).
 
-Many datasets are published under the Open Government Licence (OGL).
-Users must comply with the licence conditions of the original data producers.
+Unless otherwise stated, data are available under the terms of the [Open Government Licence v3.0 (OGL)](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
-Further information is provided in LICENCE.md.
+Contains public sector information licensed under the Open Government Licence v3.0.
+
+Users are responsible for complying with the licence conditions of the original data producers, including providing appropriate attribution when reusing the data.
+
+The Brunel Centre does not claim ownership of the underlying source data. Further details are provided in `LICENCE.md`.
 
 
 ## Contact
